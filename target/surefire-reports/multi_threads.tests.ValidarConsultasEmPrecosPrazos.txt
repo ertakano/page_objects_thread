@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: multi_threads.tests.ValidarConsultasEmPrecosPrazos
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.162 s - in multi_threads.tests.ValidarConsultasEmPrecosPrazos

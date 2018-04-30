@@ -1,0 +1,10 @@
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/utils/WebDriverUtils.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/enuns/Browsers.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/enuns/ExecutionType.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/base/BasePage.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/driverfactory/Properties.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/pageobjects/PrecosEPrazosPageObject.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/tests/ValidarConsultasEmPrecosPrazos.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/driverfactory/DriverFactory.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/base/BaseTest.java
+/home/erico/workspace/Automacao_Page_Objects/page_objects/src/main/java/multi_threads/runner/Runner.java

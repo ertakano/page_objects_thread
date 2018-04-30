@@ -1,0 +1,12 @@
+multi_threads/base/BasePage.class
+multi_threads/enuns/ExecutionType.class
+multi_threads/utils/WebDriverUtils.class
+multi_threads/runner/Runner.class
+multi_threads/driverfactory/Properties.class
+multi_threads/tests/ValidarConsultasEmPrecosPrazos.class
+multi_threads/driverfactory/DriverFactory.class
+multi_threads/driverfactory/DriverFactory$1.class
+multi_threads/driverfactory/DriverFactory$2.class
+multi_threads/pageobjects/PrecosEPrazosPageObject.class
+multi_threads/enuns/Browsers.class
+multi_threads/base/BaseTest.class
